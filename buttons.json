@@ -1,0 +1,158 @@
+[
+    {
+        "label": "やほやほー",
+        "class": ["is-info"]
+    },
+    {
+        "label": "ジカンガナイヨ",
+        "class": ["is-info"]
+    },
+    {
+        "label": "フィニーッシュ",
+        "class": ["is-success"]
+    },
+    {
+        "label": "ニューレコード",
+        "class": ["is-success"]
+    },
+    {
+        "label": "アァァアーッ！！",
+        "class": ["is-danger"]
+    },
+    {
+        "label": "ちょっと待って！！",
+        "class": ["is-danger"]
+    },
+    {
+        "label": "ぎゃああー",
+        "class": ["is-danger"]
+    },
+    {
+        "label": "マジでハゲる",
+        "class": ["is-danger"]
+    },
+    {
+        "label": "なーんでよ！！",
+        "class": ["is-danger"]
+    },
+    {
+        "label": "なんでなのぉ～",
+        "class": ["is-danger"]
+    },
+    {
+        "label": "ナイス！",
+        "class": ["is-success"]
+    },
+    {
+        "label": "逃げるなー！",
+        "class": ["is-danger"]
+    },
+    {
+        "label": "オーイ！",
+        "class": ["is-danger"]
+    },
+    {
+        "label": "終わんないでしょうがー",
+        "class": ["is-danger"]
+    },
+    {
+        "label": "すいませんね！",
+        "class": ["is-info"]
+    },
+    {
+        "label": "タイマースタート！",
+        "class": ["is-info"]
+    },
+    {
+        "label": "とけちゃう～よ～",
+        "class": ["is-info"]
+    },
+    {
+        "label": "絶対止めるマン",
+        "class": ["is-info"]
+    },
+    {
+        "label": "ああ？",
+        "class": ["is-danger"]
+    },
+    {
+        "label": "あぁやんのかおらぁ",
+        "class": ["is-danger"]
+    },
+    {
+        "label": "あらいいですねぇ",
+        "class": ["is-info"]
+    },
+    {
+        "label": "あん？あん、あん",
+        "class": ["is-danger"]
+    },
+    {
+        "label": "え～でもな～",
+        "class": ["is-info"]
+    },
+    {
+        "label": "何時に起きるー？",
+        "class": ["is-info"]
+    },
+    {
+        "label": "朝だよー！！",
+        "class": ["is-danger"]
+    },
+    {
+        "label": "おきてええ",
+        "class": ["is-danger"]
+    },
+    {
+        "label": "おはよおおお",
+        "class": ["is-danger"]
+    },
+    {
+        "label": "カンカンカン",
+        "class": ["is-danger"]
+    },
+    {
+        "label": "テレみちゃん",
+        "class": ["is-info"]
+    },
+    {
+        "label": "はい、アーン",
+        "class": ["is-info"]
+    },
+    {
+        "label": "ほら食べな？",
+        "class": ["is-danger"]
+    },
+    {
+        "label": "口開けろ",
+        "class": ["is-danger"]
+    },
+    {
+        "label": "食べろ",
+        "class": ["is-danger"]
+    },
+    {
+        "label": "みんなと一緒に寝たいよ～",
+        "class": ["is-success"]
+    },
+    {
+        "label": "寝ましょ一緒に",
+        "class": ["is-success"]
+    },
+    {
+        "label": "寝たら終わり",
+        "class": ["is-danger"]
+    },
+    {
+        "label": "やめなさい",
+        "class": ["is-danger"]
+    },
+    {
+        "label": "知らないの？",
+        "class": ["is-danger"]
+    },
+    {
+        "label": "ヤッター",
+        "class": ["is-success"]
+    }
+]   
