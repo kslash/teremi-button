@@ -3,9 +3,7 @@
     const app = Vue.createApp({
         data() {
             return {
-                buttons: [{
-                    label: "hoge"
-                }]
+                buttons: []
             }
         },
         beforeMount() {
@@ -15,15 +13,13 @@
                 .then(data => self.buttons = data);
         },
         methods: {
-            play(button) {
+            play(event, button) {
                 const file = button.label;
                 new Audio('/sounds/' + file + '.mp3').play();
                 event.preventDefault();
                 return false;
             }
         }
-
-
     });
     app.mount('.buttons');
 })();

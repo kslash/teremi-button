@@ -66,7 +66,7 @@
                     <div class="tile is-child box">
                         <div class="buttons">
                             <button v-for="button in buttons" :key="button.label" class="button sound"
-                                :class="button.class" @click="play(button)">
+                                :class="button.class" @click="play($event, button)">
                                 {{ button.label }}
                             </button>
                         </div>
@@ -78,6 +78,9 @@
                             <p class="subtitle">アップデート情報</p>
                             <ul class="mt-0">
                                 <li>
+                                    2020-11-10 軽微な修正。支援リンクにBOOTHを追加
+                                </li>
+                                <li>
                                     2020-11-09 内部の実装を一新。支援リンクを追加
                                 </li>
                             </ul>
@@ -88,19 +91,25 @@
                             <p class="subtitle">テレみさんを支援する</p>
                             <ul class="mt-0">
                                 <li>
-                                    <a href="https://www.youtube.com/user/Teremi3416">YouTubeチャンネル</a> で動画を見る
+                                    <a href="https://www.youtube.com/user/Teremi3416" target="_blank">YouTubeチャンネル</a>
+                                    で動画を見る
                                 </li>
                                 <li>
-                                    <a href="https://www.youtube.com/channel/UCiWOPvDD8QDau0Fh3AxXxwg/join">メンバーシップ</a>
+                                    <a href="https://www.youtube.com/channel/UCiWOPvDD8QDau0Fh3AxXxwg/join"
+                                        target="_blank">メンバーシップ</a>
                                     になる
                                 </li>
                                 <li>
-                                    <a
-                                        href="https://www.amazon.co.jp/hz/wishlist/ls/1LBIF66UJFZEV?ref_=wl_share">欲しいものリスト</a>
+                                    <a href="https://www.amazon.co.jp/hz/wishlist/ls/1LBIF66UJFZEV?ref_=wl_share"
+                                        target="_blank">欲しいものリスト</a>
                                     から送る
                                 </li>
                                 <li>
-                                    <a href="https://store.line.me/stickershop/product/12498695">LINE スタンプ</a> を購入する
+                                    <a href="https://store.line.me/stickershop/product/12498695" target="_blank">LINE
+                                        スタンプ</a> を購入する
+                                </li>
+                                <li>
+                                    <a href="https://teremi.booth.pm/" target="_blank">BOOTH</a> でグッズを購入する
                                 </li>
                             </ul>
                         </div>
