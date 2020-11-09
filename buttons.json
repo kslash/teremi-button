@@ -1,158 +1,262 @@
 [
     {
         "label": "やほやほー",
-        "class": ["is-info"]
+        "class": [ "is-info" ]
     },
     {
         "label": "ジカンガナイヨ",
-        "class": ["is-info"]
+        "class": [ "is-info" ]
     },
     {
         "label": "フィニーッシュ",
-        "class": ["is-success"]
+        "class": [ "is-success" ]
     },
     {
         "label": "ニューレコード",
-        "class": ["is-success"]
+        "class": [ "is-success" ]
     },
     {
         "label": "アァァアーッ！！",
-        "class": ["is-danger"]
+        "class": [ "is-danger" ]
     },
     {
         "label": "ちょっと待って！！",
-        "class": ["is-danger"]
+        "class": [ "is-danger" ]
     },
     {
         "label": "ぎゃああー",
-        "class": ["is-danger"]
+        "class": [ "is-danger" ]
     },
     {
         "label": "マジでハゲる",
-        "class": ["is-danger"]
+        "class": [ "is-danger" ]
     },
     {
         "label": "なーんでよ！！",
-        "class": ["is-danger"]
+        "class": [ "is-danger" ]
     },
     {
         "label": "なんでなのぉ～",
-        "class": ["is-danger"]
+        "class": [ "is-danger" ]
     },
     {
         "label": "ナイス！",
-        "class": ["is-success"]
+        "class": [ "is-success" ]
     },
     {
         "label": "逃げるなー！",
-        "class": ["is-danger"]
+        "class": [ "is-danger" ]
     },
     {
         "label": "オーイ！",
-        "class": ["is-danger"]
+        "class": [ "is-danger" ]
     },
     {
         "label": "終わんないでしょうがー",
-        "class": ["is-danger"]
+        "class": [ "is-danger" ]
     },
     {
         "label": "すいませんね！",
-        "class": ["is-info"]
+        "class": [ "is-info" ]
     },
     {
         "label": "タイマースタート！",
-        "class": ["is-info"]
+        "class": [ "is-info" ]
     },
     {
         "label": "とけちゃう～よ～",
-        "class": ["is-info"]
+        "class": [ "is-info" ]
     },
     {
         "label": "絶対止めるマン",
-        "class": ["is-info"]
+        "class": [ "is-info" ]
     },
     {
         "label": "ああ？",
-        "class": ["is-danger"]
+        "class": [ "is-danger" ]
     },
     {
         "label": "あぁやんのかおらぁ",
-        "class": ["is-danger"]
+        "class": [ "is-danger" ]
     },
     {
         "label": "あらいいですねぇ",
-        "class": ["is-info"]
+        "class": [ "is-info" ]
     },
     {
         "label": "あん？あん、あん",
-        "class": ["is-danger"]
+        "class": [ "is-danger" ]
     },
     {
         "label": "え～でもな～",
-        "class": ["is-info"]
+        "class": [ "is-info" ]
     },
     {
         "label": "何時に起きるー？",
-        "class": ["is-info"]
+        "class": [ "is-info" ]
     },
     {
         "label": "朝だよー！！",
-        "class": ["is-danger"]
+        "class": [ "is-danger" ]
     },
     {
         "label": "おきてええ",
-        "class": ["is-danger"]
+        "class": [ "is-danger" ]
     },
     {
         "label": "おはよおおお",
-        "class": ["is-danger"]
+        "class": [ "is-danger" ]
     },
     {
         "label": "カンカンカン",
-        "class": ["is-danger"]
+        "class": [ "is-danger" ]
     },
     {
         "label": "テレみちゃん",
-        "class": ["is-info"]
+        "class": [ "is-info" ]
     },
     {
         "label": "はい、アーン",
-        "class": ["is-info"]
+        "class": [ "is-info" ]
     },
     {
         "label": "ほら食べな？",
-        "class": ["is-danger"]
+        "class": [ "is-danger" ]
     },
     {
         "label": "口開けろ",
-        "class": ["is-danger"]
+        "class": [ "is-danger" ]
     },
     {
         "label": "食べろ",
-        "class": ["is-danger"]
+        "class": [ "is-danger" ]
     },
     {
         "label": "みんなと一緒に寝たいよ～",
-        "class": ["is-success"]
+        "class": [ "is-success" ]
     },
     {
         "label": "寝ましょ一緒に",
-        "class": ["is-success"]
+        "class": [ "is-success" ]
     },
     {
         "label": "寝たら終わり",
-        "class": ["is-danger"]
+        "class": [ "is-danger" ]
     },
     {
         "label": "やめなさい",
-        "class": ["is-danger"]
+        "class": [ "is-danger" ]
     },
     {
         "label": "知らないの？",
-        "class": ["is-danger"]
+        "class": [ "is-danger" ]
     },
     {
         "label": "ヤッター",
-        "class": ["is-success"]
+        "class": [ "is-success" ]
+    },
+    {
+        "label": "深呼吸深呼吸",
+        "class": [ "is-success" ]
+    },
+    {
+        "label": "なるほどね",
+        "class": [ "is-success" ]
+    },
+    {
+        "label": "疲れた",
+        "class": [ "is-success" ]
+    },
+    {
+        "label": "泣いちゃうでしょうがー",
+        "class": [ "is-success" ]
+    },
+    {
+        "label": "大丈夫かなぁ",
+        "class": [ "is-success" ]
+    },
+    {
+        "label": "始まっとるかいー",
+        "class": [ "is-success" ]
+    },
+    {
+        "label": "ミンミンミンミンミンミンミンミン",
+        "class": [ "is-info" ]
+    },
+    {
+        "label": "ドキドキ☆土曜日",
+        "class": [ "is-info" ]
+    },
+    {
+        "label": "オハザイマス",
+        "class": [ "is-success" ]
+    },
+    {
+        "label": "ティントトントーン♪",
+        "class": [ "is-info" ]
+    },
+    {
+        "label": "アラ！",
+        "class": [ "is-danger" ]
+    },
+    {
+        "label": "ホントごめんなさい",
+        "class": [ "is-danger" ]
+    },
+    {
+        "label": "あるぇー",
+        "class": [ "is-success" ]
+    },
+    {
+        "label": "オイ添い寝しろ",
+        "class": [ "is-danger" ]
+    },
+    {
+        "label": "アラアラ",
+        "class": [ "is-info" ]
+    },
+    {
+        "label": "チュンチュン",
+        "class": [ "is-info" ]
+    },
+    {
+        "label": "爆破します",
+        "class": [ "is-danger" ]
+    },
+    {
+        "label": "サヨナラ",
+        "class": [ "is-success" ]
+    },
+    {
+        "label": "寝なさいよー",
+        "class": [ "is-danger" ]
+    },
+    {
+        "label": "はい、こんちゃー",
+        "class": [ "is-danger" ]
+    },
+    {
+        "label": "ウケる～",
+        "class": [ "is-danger" ]
+    },
+    {
+        "label": "寝てる間に金欲しい！",
+        "class": [ "is-danger" ]
+    },
+    {
+        "label": "ああナイスパァ！",
+        "class": [ "is-danger" ]
+    },
+    {
+        "label": "ありがとうございます",
+        "class": [ "is-success" ]
+    },
+    {
+        "label": "どういう状況これ？",
+        "class": [ "is-success" ]
+    },
+    {
+        "label": "わーい",
+        "class": [ "is-info" ]
     }
-]   
+]
