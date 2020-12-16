@@ -258,5 +258,9 @@
     {
         "label": "わーい",
         "class": [ "is-info" ]
+    },
+    {
+        "label": "ぬぎぬぎ大好き",
+        "class": [ "is-info" ]
     }
 ]
