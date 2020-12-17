@@ -262,5 +262,13 @@
     {
         "label": "ぬぎぬぎ大好き",
         "class": [ "is-info" ]
-    }
+    },
+    {
+        "label": "パキィ",
+        "class": [ "is-danger" ]
+    },
+    {
+        "label": "パキィ(悲)",
+        "class": [ "is-info" ]
+   }
 ]
