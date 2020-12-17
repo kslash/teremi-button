@@ -63,7 +63,22 @@
         <div class="container">
             <div class="tile is-ancestor">
                 <div class="tile is-8 is-parent">
-                    <div class="tile is-child box">
+                    <div class="tile is-child box" id="app">
+                        <div id="mode" class="mb-2">
+                            連続再生モード
+                            <label class="radio">
+                                <input type="radio" value="pause" v-model="playlist.mode">
+                                デフォルト
+                            </label>
+                            <label class="radio">
+                                <input type="radio" value="immediately" v-model="playlist.mode">
+                                すぐ再生
+                            </label>
+                            <label class="radio">
+                                <input type="radio" value="later" v-model="playlist.mode">
+                                終わってから再生
+                            </label>
+                        </div>
                         <div class="buttons">
                             <button v-for="button in buttons" :key="button.label" class="button sound"
                                 :class="button.class" @click="play($event, button)">
@@ -78,7 +93,7 @@
                             <p class="subtitle">アップデート情報</p>
                             <ul class="mt-0">
                                 <li>
-                                    2020-12-18 パキィボタン2種追加
+                                    2020-12-18 パキィボタン2種追加。再生モードの追加。
                                 </li>
                                 <li>
                                     2020-12-16 支援リンクを拡充。ボタン1つ追加
