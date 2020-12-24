@@ -270,5 +270,65 @@
     {
         "label": "パキィ(悲)",
         "class": [ "is-info" ]
-   }
+    },
+    {
+        "label": "上",
+        "class": [ "is-info" ]
+    },
+    {
+        "label": "下",
+        "class": [ "is-info" ]
+    },
+    {
+        "label": "右",
+        "class": [ "is-info" ]
+    },
+    {
+        "label": "左",
+        "class": [ "is-info" ]
+    },
+    {
+        "label": "赤色",
+        "class": [ "is-info" ]
+    },
+    {
+        "label": "青色",
+        "class": [ "is-info" ]
+    },
+    {
+        "label": "黄色",
+        "class": [ "is-info" ]
+    },
+    {
+        "label": "緑",
+        "class": [ "is-info" ]
+    },
+    {
+        "label": "白",
+        "class": [ "is-info" ]
+    },
+    {
+        "label": "じゃない",
+        "class": [ "is-info" ]
+    },
+    {
+        "label": "じゃない↑",
+        "class": [ "is-danger" ]
+    },
+    {
+        "label": "ないじゃない",
+        "class": [ "is-danger" ]
+    },
+    {
+        "label": "じゃああああない！",
+        "class": [ "is-danger" ]
+    },
+    {
+        "label": "ないじゃん！",
+        "class": [ "is-danger" ]
+    },
+    {
+        "label": "ハッピーバースデー",
+        "class": [ "is-info" ]
+    }
 ]
