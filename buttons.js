@@ -75,13 +75,18 @@
         data() {
             return {
                 buttons: [],
+                keys: {},
                 playlist: new Playlist(),
             }
         },
         beforeMount() {
             fetch('/buttons.json')
                 .then(response => response.json())
-                .then(data => this.buttons = data);
+                .then(data => this.buttons = data)
+                .then(() => {
+                    this.buttons.filter((button) => button.key).forEach((button) => this.keys[button.key] = button);
+                });
+            document.addEventListener('keydown', this.keydown)
         },
         methods: {
             play(event, button) {
@@ -89,6 +94,11 @@
                 this.playlist.play(new Audio(`/sounds/${file}.mp3`));
                 event.preventDefault();
                 return false;
+            },
+            keydown(event) {
+                if(this.keys[event.key]) {
+                    this.play(event, this.keys[event.key]);
+                }
             }
         }
     });

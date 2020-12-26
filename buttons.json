@@ -9,7 +9,8 @@
     },
     {
         "label": "フィニーッシュ",
-        "class": [ "is-success" ]
+        "class": [ "is-success" ],
+        "key": "f"
     },
     {
         "label": "ニューレコード",
@@ -25,15 +26,18 @@
     },
     {
         "label": "ぎゃああー",
-        "class": [ "is-danger" ]
+        "class": [ "is-danger" ],
+        "key": "g"
     },
     {
         "label": "マジでハゲる",
-        "class": [ "is-danger" ]
+        "class": [ "is-danger" ],
+        "key": "m"
     },
     {
         "label": "なーんでよ！！",
-        "class": [ "is-danger" ]
+        "class": [ "is-danger" ],
+        "key": "n"
     },
     {
         "label": "なんでなのぉ～",
@@ -45,7 +49,8 @@
     },
     {
         "label": "逃げるなー！",
-        "class": [ "is-danger" ]
+        "class": [ "is-danger" ],
+        "key": "N"
     },
     {
         "label": "オーイ！",
@@ -57,19 +62,23 @@
     },
     {
         "label": "すいませんね！",
-        "class": [ "is-info" ]
+        "class": [ "is-info" ],
+        "key": "S"
     },
     {
         "label": "タイマースタート！",
-        "class": [ "is-info" ]
+        "class": [ "is-info" ],
+        "key": "t"
     },
     {
         "label": "とけちゃう～よ～",
-        "class": [ "is-info" ]
+        "class": [ "is-info" ],
+        "key": "T"
     },
     {
         "label": "絶対止めるマン",
-        "class": [ "is-info" ]
+        "class": [ "is-info" ],
+        "key": "z"
     },
     {
         "label": "ああ？",
@@ -81,7 +90,8 @@
     },
     {
         "label": "あらいいですねぇ",
-        "class": [ "is-info" ]
+        "class": [ "is-info" ],
+        "key": "A"
     },
     {
         "label": "あん？あん、あん",
@@ -105,15 +115,18 @@
     },
     {
         "label": "おはよおおお",
-        "class": [ "is-danger" ]
+        "class": [ "is-danger" ],
+        "key": "O"
     },
     {
         "label": "カンカンカン",
-        "class": [ "is-danger" ]
+        "class": [ "is-danger" ],
+        "key": "k"
     },
     {
         "label": "テレみちゃん",
-        "class": [ "is-info" ]
+        "class": [ "is-info" ],
+        "key": "T"
     },
     {
         "label": "はい、アーン",
@@ -145,7 +158,8 @@
     },
     {
         "label": "やめなさい",
-        "class": [ "is-danger" ]
+        "class": [ "is-danger" ],
+        "key": "y"
     },
     {
         "label": "知らないの？",
@@ -153,7 +167,8 @@
     },
     {
         "label": "ヤッター",
-        "class": [ "is-success" ]
+        "class": [ "is-success" ],
+        "key": "Y"
     },
     {
         "label": "深呼吸深呼吸",
@@ -189,7 +204,8 @@
     },
     {
         "label": "オハザイマス",
-        "class": [ "is-success" ]
+        "class": [ "is-success" ],
+        "key": "o"
     },
     {
         "label": "ティントトントーン♪",
@@ -265,55 +281,68 @@
     },
     {
         "label": "パキィ",
-        "class": [ "is-danger" ]
+        "class": [ "is-danger" ],
+        "key": "p"
     },
     {
         "label": "パキィ(悲)",
-        "class": [ "is-info" ]
+        "class": [ "is-info" ],
+        "key": "P"
     },
     {
         "label": "上",
-        "class": [ "is-info" ]
+        "class": [ "is-info" ],
+        "key": "w"
     },
     {
         "label": "下",
-        "class": [ "is-info" ]
+        "class": [ "is-info" ],
+        "key": "s"
     },
     {
         "label": "右",
-        "class": [ "is-info" ]
+        "class": [ "is-info" ],
+        "key": "d"
     },
     {
         "label": "左",
-        "class": [ "is-info" ]
+        "class": [ "is-info" ],
+        "key": "a"
     },
     {
         "label": "赤色",
-        "class": [ "is-info" ]
+        "class": [ "is-info" ],
+        "key": "1"
     },
     {
         "label": "青色",
-        "class": [ "is-info" ]
+        "class": [ "is-info" ],
+        "key": "2"
     },
     {
         "label": "黄色",
-        "class": [ "is-info" ]
+        "class": [ "is-info" ],
+        "key": "3"
     },
     {
         "label": "緑",
-        "class": [ "is-info" ]
+        "class": [ "is-info" ],
+        "key": "4"
     },
     {
         "label": "白",
-        "class": [ "is-info" ]
+        "class": [ "is-info" ],
+        "key": "5"
     },
     {
         "label": "じゃない",
-        "class": [ "is-info" ]
+        "class": [ "is-info" ],
+        "key": "j"
     },
     {
         "label": "じゃない↑",
-        "class": [ "is-danger" ]
+        "class": [ "is-danger" ],
+        "key": "J"
     },
     {
         "label": "ないじゃない",
